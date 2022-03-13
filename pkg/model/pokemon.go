@@ -2,6 +2,7 @@ package model
 
 type Pokemon struct {
 	Id         string `bson:"_id"`
+	DexNum     string `bson:"Number"`
 	Name       string `json:"Name"`
 	Element    string `json:"Element"`
 	SecElement string `json:"SecElement,omitempty"`
@@ -10,4 +11,5 @@ type Pokemon struct {
 	Species    string `json:"Species"`
 	Region     string `json:"Region"`
 	PkdxEntry  string `json:"PkdxEntry"`
+	ImgURL     string `json:"ImgURL,omitempty"`
 }
