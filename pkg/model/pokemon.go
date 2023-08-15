@@ -12,4 +12,5 @@ type Pokemon struct {
 	Region     string `json:"Region"`
 	PkdxEntry  string `json:"PkdxEntry"`
 	ImgURL     string `json:"ImgURL,omitempty"`
+	Variant    string `json:"Form,omitempty"`
 }

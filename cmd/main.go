@@ -15,6 +15,7 @@ import (
 var mongoDb *mongo.Collection
 
 func main() {
+
 	fmt.Println("SERVER UP")
 	findOptions := options.Find()
 	findOptions.SetLimit(1000)

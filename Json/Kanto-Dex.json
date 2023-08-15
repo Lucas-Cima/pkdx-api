@@ -10,8 +10,10 @@
     "Species": "Seed Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/bulbasaur.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/bulbasaur.png",
+    "Form": ""
   },
+
   {
     "_id": "0002",
     "Number": "002",
@@ -23,7 +25,8 @@
     "Species": "Seed Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/ivysaur.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/ivysaur.png",
+    "Form": ""
   },
   {
     "_id": "0003",
@@ -36,7 +39,8 @@
     "Species": "Seed Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/venusaur.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/venusaur.png",
+    "Form": ""
   },
   {
     "_id": "0004",
@@ -49,7 +53,8 @@
     "Species": "Lizard Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/charmander.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/charmander.png",
+    "Form": ""
   },
   {
     "_id": "0005",
@@ -62,7 +67,8 @@
     "Species": "Flame Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/charmeleon.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/charmeleon.png",
+    "Form": ""
   },
   {
     "_id": "0006",
@@ -75,7 +81,8 @@
     "Species": "Flame Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/charizard.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/charizard.png",
+    "Form": ""
   },
   {
     "_id": "0007",
@@ -88,7 +95,8 @@
     "Species": "Tiny Turtle Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/squirtle.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/squirtle.png",
+    "Form": ""
   },
   {
     "_id": "0008",
@@ -101,7 +109,8 @@
     "Species": "Turtle Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/wartortle.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/wartortle.png",
+    "Form": ""
   },
   {
     "_id": "0009",
@@ -114,7 +123,8 @@
     "Species": "Shellfish Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/blastoise.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/blastoise.png",
+    "Form": ""
   },
   {
     "_id": "0010",
@@ -127,7 +137,8 @@
     "Species": "Worm Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/caterpie.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/caterpie.png",
+    "Form": ""
   },
   {
     "_id": "0011",
@@ -140,7 +151,8 @@
     "Species": "Cocoon Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/metapod.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/metapod.png",
+    "Form": ""
   },
   {
     "_id": "0012",
@@ -153,7 +165,8 @@
     "Species": "Butterfly Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/butterfree.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/butterfree.png",
+    "Form": ""
   },
   {
     "_id": "0013",
@@ -166,7 +179,8 @@
     "Species": "Hairy Bug Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/weedle.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/weedle.png",
+    "Form": ""
   },
   {
     "_id": "0014",
@@ -179,7 +193,8 @@
     "Species": "Cocoon Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/kakuna.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/kakuna.png",
+    "Form": ""
   },
   {
     "_id": "0015",
@@ -192,7 +207,8 @@
     "Species": "Poison Bee Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/beedrill.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/beedrill.png",
+    "Form": ""
   },
   {
     "_id": "0016",
@@ -205,7 +221,8 @@
     "Species": "Tiny Bird Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/pidgey.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/pidgey.png",
+    "Form": ""
   },
   {
     "_id": "0017",
@@ -218,7 +235,8 @@
     "Species": "Bird Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/pidgeotto.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/pidgeotto.png",
+    "Form": ""
   },
   {
     "_id": "0018",
@@ -231,7 +249,8 @@
     "Species": "Bird Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/pidgeot.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/pidgeot.png",
+    "Form": ""
   },
   {
     "_id": "0019",
@@ -244,7 +263,8 @@
     "Species": "Mouse Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/rattata.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/rattata.png",
+    "Form": ""
   },
   {
     "_id": "0020",
@@ -257,7 +277,8 @@
     "Species": "Mouse Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/raticate.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/raticate.png",
+    "Form": ""
   },
   {
     "_id": "0021",
@@ -270,7 +291,8 @@
     "Species": "Tiny Bird Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/spearow.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/spearow.png",
+    "Form": ""
   },
   {
     "_id": "0022",
@@ -283,7 +305,8 @@
     "Species": "Beak Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/fearow.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/fearow.png",
+    "Form": ""
   },
   {
     "_id": "0023",
@@ -296,7 +319,8 @@
     "Species": "Snake Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/ekans.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/ekans.png",
+    "Form": ""
   },
   {
     "_id": "0024",
@@ -309,7 +333,8 @@
     "Species": "Cobra Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/arbok.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/arbok.png",
+    "Form": ""
   },
   {
     "_id": "0025",
@@ -322,7 +347,8 @@
     "Species": "Mouse Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
-    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/pikachu.png"
+    "ImgUrl": "https://img.pokemondb.net/sprites/home/normal/pikachu.png",
+    "Form": ""
   },
   {
     "_id": "0026",
@@ -335,7 +361,8 @@
     "Species": "Mouse Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its long tail serves as a ground to protect itself from its own high voltage power.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/raichu.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/raichu.png",
+    "Form": ""
   },
   {
     "_id": "0027",
@@ -348,7 +375,8 @@
     "Species": "Mouse Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sandshrew.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sandshrew.png",
+    "Form": ""
   },
   {
     "_id": "0028",
@@ -361,7 +389,8 @@
     "Species": "Mouse Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sandslash.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sandslash.png",
+    "Form": ""
   },
   {
     "_id": "0029",
@@ -374,7 +403,8 @@
     "Species": "Poison Pin Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidoran-f.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidoran-f.png",
+    "Form": ""
   },
   {
     "_id": "0030",
@@ -387,7 +417,8 @@
     "Species": "Poison Pin Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The female’s horn develops slowly. Prefers physical attacks such as clawing and biting.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidorina.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidorina.png",
+    "Form": ""
   },
   {
     "_id": "0031",
@@ -400,7 +431,8 @@
     "Species": "Drill Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidoqueen.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidoqueen.png",
+    "Form": ""
   },
   {
     "_id": "0032",
@@ -413,7 +445,8 @@
     "Species": "Poison Pin Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidoran-m.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidoran-m.png",
+    "Form": ""
   },
   {
     "_id": "0033",
@@ -426,7 +459,8 @@
     "Species": "Poison Pin Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidorino.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidorino.png",
+    "Form": ""
   },
   {
     "_id": "0034",
@@ -439,7 +473,8 @@
     "Species": "Drill Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "It uses its powerful tail in battle to smash, constrict, then break the prey’s bones.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidoking.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/nidoking.png",
+    "Form": ""
   },
   {
     "_id": "0035",
@@ -452,7 +487,8 @@
     "Species": "Fairy Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/clefairy.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/clefairy.png",
+    "Form": ""
   },
   {
     "_id": "0036",
@@ -465,7 +501,8 @@
     "Species": "Fairy Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/clefable.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/clefable.png",
+    "Form": ""
   },
   {
     "_id": "0037",
@@ -478,7 +515,8 @@
     "Species": "Fox Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/vulpix.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/vulpix.png",
+    "Form": ""
   },
   {
     "_id": "0038",
@@ -491,7 +529,8 @@
     "Species": "Fox Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ninetales.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ninetales.png",
+    "Form": ""
   },
   {
     "_id": "0039",
@@ -504,7 +543,8 @@
     "Species": "Balloon Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/jigglypuff.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/jigglypuff.png",
+    "Form": ""
   },
   {
     "_id": "0040",
@@ -517,7 +557,8 @@
     "Species": "Balloon Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/wigglytuff.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/wigglytuff.png",
+    "Form": ""
   },
   {
     "_id": "0041",
@@ -530,7 +571,8 @@
     "Species": "Bat Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/zubat.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/zubat.png",
+    "Form": ""
   },
   {
     "_id": "0042",
@@ -543,7 +585,8 @@
     "Species": "Bat Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/golbat.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/golbat.png",
+    "Form": ""
   },
   {
     "_id": "0043",
@@ -556,7 +599,8 @@
     "Species": "Weed Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/oddish.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/oddish.png",
+    "Form": ""
   },
   {
     "_id": "0044",
@@ -569,7 +613,8 @@
     "Species": "Weed Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The fluid that oozes from its mouth isn’t drool. It is a nectar that is used to attract prey.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/gloom.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/gloom.png",
+    "Form": ""
   },
   {
     "_id": "0045",
@@ -582,7 +627,8 @@
     "Species": "Flower Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/vileplume.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/vileplume.png",
+    "Form": ""
   },
   {
     "_id": "0046",
@@ -595,7 +641,8 @@
     "Species": "Mushroom Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/paras.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/paras.png",
+    "Form": ""
   },
   {
     "_id": "0047",
@@ -608,7 +655,8 @@
     "Species": "Mushroom Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/parasect.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/parasect.png",
+    "Form": ""
   },
   {
     "_id": "0048",
@@ -621,7 +669,8 @@
     "Species": "Insect Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/venonat.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/venonat.png",
+    "Form": ""
   },
   {
     "_id": "0049",
@@ -634,7 +683,8 @@
     "Species": "Poison Moth Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/venomoth.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/venomoth.png",
+    "Form": ""
   },
   {
     "_id": "0050",
@@ -647,7 +697,8 @@
     "Species": "Mole Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/diglett.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/diglett.png",
+    "Form": ""
   },
   {
     "_id": "0051",
@@ -660,7 +711,8 @@
     "Species": "Mole Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dugtrio.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dugtrio.png",
+    "Form": ""
   },
   {
     "_id": "0052",
@@ -673,7 +725,8 @@
     "Species": "Scratch Cat Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/meowth.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/meowth.png",
+    "Form": ""
   },
   {
     "_id": "0053",
@@ -686,7 +739,8 @@
     "Species": "Classy Cat Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/persian.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/persian.png",
+    "Form": ""
   },
   {
     "_id": "0054",
@@ -699,7 +753,8 @@
     "Species": "Duck Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/psyduck.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/psyduck.png",
+    "Form": ""
   },
   {
     "_id": "0055",
@@ -712,7 +767,8 @@
     "Species": "Duck Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/golduck.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/golduck.png",
+    "Form": ""
   },
   {
     "_id": "0056",
@@ -725,7 +781,8 @@
     "Species": "Pig Monkey Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/mankey.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/mankey.png",
+    "Form": ""
   },
   {
     "_id": "0057",
@@ -738,7 +795,8 @@
     "Species": "Pig Monkey Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/primeape.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/primeape.png",
+    "Form": ""
   },
   {
     "_id": "0058",
@@ -751,7 +809,8 @@
     "Species": "Puppy Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/growlithe.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/growlithe.png",
+    "Form": ""
   },
   {
     "_id": "0059",
@@ -764,7 +823,8 @@
     "Species": "Legendary Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/arcanine.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/arcanine.png",
+    "Form": ""
   },
   {
     "_id": "0060",
@@ -777,7 +837,8 @@
     "Species": "Tadpole Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/poliwag.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/poliwag.png",
+    "Form": ""
   },
   {
     "_id": "0061",
@@ -790,7 +851,8 @@
     "Species": "Tadpole Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/poliwhirl.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/poliwhirl.png",
+    "Form": ""
   },
   {
     "_id": "0062",
@@ -803,7 +865,8 @@
     "Species": "Tadpole Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/poliwrath.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/poliwrath.png",
+    "Form": ""
   },
   {
     "_id": "0063",
@@ -816,7 +879,8 @@
     "Species": "Psi Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/abra.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/abra.png",
+    "Form": ""
   },
   {
     "_id": "0064",
@@ -829,7 +893,8 @@
     "Species": "Psi Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "It emits special alpha waves from its body that induce headaches just by being close by.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kadabra.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kadabra.png",
+    "Form": ""
   },
   {
     "_id": "0065",
@@ -842,7 +907,8 @@
     "Species": "Psi Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/alakazam.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/alakazam.png",
+    "Form": ""
   },
   {
     "_id": "0066",
@@ -855,7 +921,8 @@
     "Species": "Superpower Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/machop.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/machop.png",
+    "Form": ""
   },
   {
     "_id": "0067",
@@ -868,7 +935,8 @@
     "Species": "Superpower Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/machoke.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/machoke.png",
+    "Form": ""
   },
   {
     "_id": "0068",
@@ -881,7 +949,8 @@
     "Species": "Superpower Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/machamp.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/machamp.png",
+    "Form": ""
   },
   {
     "_id": "0069",
@@ -894,7 +963,8 @@
     "Species": "Flower Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/bellsprout.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/bellsprout.png",
+    "Form": ""
   },
   {
     "_id": "0070",
@@ -907,7 +977,8 @@
     "Species": "Flycatcher Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/weepinbell.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/weepinbell.png",
+    "Form": ""
   },
   {
     "_id": "0071",
@@ -920,7 +991,8 @@
     "Species": "Flycatcher Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/victreebel.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/victreebel.png",
+    "Form": ""
   },
   {
     "_id": "0072",
@@ -933,7 +1005,8 @@
     "Species": "Jellyfish Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tentacool.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tentacool.png",
+    "Form": ""
   },
   {
     "_id": "0073",
@@ -946,7 +1019,8 @@
     "Species": "Jellyfish Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tentacruel.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tentacruel.png",
+    "Form": ""
   },
   {
     "_id": "0074",
@@ -959,7 +1033,8 @@
     "Species": "Rock Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/geodude.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/geodude.png",
+    "Form": ""
   },
   {
     "_id": "0075",
@@ -972,7 +1047,8 @@
     "Species": "Rock Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/graveler.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/graveler.png",
+    "Form": ""
   },
   {
     "_id": "0076",
@@ -985,7 +1061,8 @@
     "Species": "Rock Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/golem.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/golem.png",
+    "Form": ""
   },
   {
     "_id": "0077",
@@ -998,7 +1075,8 @@
     "Species": "Fire Horse Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ponyta.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ponyta.png",
+    "Form": ""
   },
   {
     "_id": "0078",
@@ -1011,7 +1089,8 @@
     "Species": "Fire Horse Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/rapidash.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/rapidash.png",
+    "Form": ""
   },
   {
     "_id": "0079",
@@ -1024,7 +1103,8 @@
     "Species": "Dopey Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/slowpoke.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/slowpoke.png",
+    "Form": ""
   },
   {
     "_id": "0080",
@@ -1037,7 +1117,8 @@
     "Species": "Hermit Crab Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The SHELLDER that is latched onto SLOWPOKE’s tail is said to feed on the host’s left over scraps.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/slowbro.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/slowbro.png",
+    "Form": ""
   },
   {
     "_id": "0081",
@@ -1050,7 +1131,8 @@
     "Species": "Magnet Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magnemite.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magnemite.png",
+    "Form": ""
   },
   {
     "_id": "0082",
@@ -1063,7 +1145,8 @@
     "Species": "Magnet Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magneton.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magneton.png",
+    "Form": ""
   },
   {
     "_id": "0083",
@@ -1076,7 +1159,8 @@
     "Species": "Wild Duck Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/farfetchd.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/farfetchd.png",
+    "Form": ""
   },
   {
     "_id": "0084",
@@ -1089,7 +1173,8 @@
     "Species": "Twin Bird Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/doduo.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/doduo.png",
+    "Form": ""
   },
   {
     "_id": "0085",
@@ -1102,7 +1187,8 @@
     "Species": "Triple Bird Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dodrio.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dodrio.png",
+    "Form": ""
   },
   {
     "_id": "0086",
@@ -1115,7 +1201,8 @@
     "Species": "Sea Lion Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/seel.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/seel.png",
+    "Form": ""
   },
   {
     "_id": "0087",
@@ -1128,7 +1215,8 @@
     "Species": "Sea Lion Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dewgong.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dewgong.png",
+    "Form": ""
   },
   {
     "_id": "0088",
@@ -1141,7 +1229,8 @@
     "Species": "Sludge Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/grimer.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/grimer.png",
+    "Form": ""
   },
   {
     "_id": "0089",
@@ -1154,7 +1243,8 @@
     "Species": "Sludge Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/muk.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/muk.png",
+    "Form": ""
   },
   {
     "_id": "0090",
@@ -1167,7 +1257,8 @@
     "Species": "Bivalve Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/shellder.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/shellder.png",
+    "Form": ""
   },
   {
     "_id": "0091",
@@ -1180,7 +1271,8 @@
     "Species": "Bivalve Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/cloyster.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/cloyster.png",
+    "Form": ""
   },
   {
     "_id": "0092",
@@ -1193,7 +1285,8 @@
     "Species": "Gas Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/gastly.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/gastly.png",
+    "Form": ""
   },
   {
     "_id": "0093",
@@ -1206,7 +1299,8 @@
     "Species": "Gas Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Because of its ability to slip through block walls, it is said to be from another dimension.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/haunter.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/haunter.png",
+    "Form": ""
   },
   {
     "_id": "0094",
@@ -1219,7 +1313,8 @@
     "Species": "Shadow Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/gengar.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/gengar.png",
+    "Form": ""
   },
   {
     "_id": "0095",
@@ -1232,7 +1327,8 @@
     "Species": "Rock Snake Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/onix.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/onix.png",
+    "Form": ""
   },
   {
     "_id": "0096",
@@ -1245,7 +1341,8 @@
     "Species": "Hypnosis Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/drowzee.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/drowzee.png",
+    "Form": ""
   },
   {
     "_id": "0097",
@@ -1258,7 +1355,8 @@
     "Species": "Hypnosis Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hypno.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hypno.png",
+    "Form": ""
   },
   {
     "_id": "0098",
@@ -1271,7 +1369,8 @@
     "Species": "River Crab Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/krabby.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/krabby.png",
+    "Form": ""
   },
   {
     "_id": "0099",
@@ -1284,7 +1383,8 @@
     "Species": "Pincer Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kingler.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kingler.png",
+    "Form": ""
   },
   {
     "_id": "0100",
@@ -1297,7 +1397,8 @@
     "Species": "Ball Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/voltorb.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/voltorb.png",
+    "Form": ""
   },
   {
     "_id": "0101",
@@ -1310,7 +1411,8 @@
     "Species": "Ball Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/electrode.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/electrode.png",
+    "Form": ""
   },
   {
     "_id": "0102",
@@ -1323,7 +1425,8 @@
     "Species": "Egg Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/exeggcute.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/exeggcute.png",
+    "Form": ""
   },
   {
     "_id": "0103",
@@ -1336,7 +1439,8 @@
     "Species": "Coconut Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/exeggutor.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/exeggutor.png",
+    "Form": ""
   },
   {
     "_id": "0104",
@@ -1349,7 +1453,8 @@
     "Species": "Lonely Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Because it never removes its skull helmet, no one has ever seen this POKéMON’s real face.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/cubone.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/cubone.png",
+    "Form": ""
   },
   {
     "_id": "0105",
@@ -1362,7 +1467,8 @@
     "Species": "Bone Keeper Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/marowak.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/marowak.png",
+    "Form": ""
   },
   {
     "_id": "0106",
@@ -1375,7 +1481,8 @@
     "Species": "Kicking Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hitmonlee.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hitmonlee.png",
+    "Form": ""
   },
   {
     "_id": "0107",
@@ -1388,7 +1495,8 @@
     "Species": "Punching Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hitmonchan.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hitmonchan.png",
+    "Form": ""
   },
   {
     "_id": "0108",
@@ -1401,7 +1509,8 @@
     "Species": "Licking Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its tongue can be extended like a chameleon’s. It leaves a tingling sensation when it licks enemies.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/lickitung.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/lickitung.png",
+    "Form": ""
   },
   {
     "_id": "0109",
@@ -1414,7 +1523,8 @@
     "Species": "Poison Gas Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/koffing.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/koffing.png",
+    "Form": ""
   },
   {
     "_id": "0110",
@@ -1427,7 +1537,8 @@
     "Species": "Poison Gas Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/weezing.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/weezing.png",
+    "Form": ""
   },
   {
     "_id": "0111",
@@ -1440,7 +1551,8 @@
     "Species": "Spikes Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/rhyhorn.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/rhyhorn.png",
+    "Form": ""
   },
   {
     "_id": "0112",
@@ -1453,7 +1565,8 @@
     "Species": "Drill Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/rhydon.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/rhydon.png",
+    "Form": ""
   },
   {
     "_id": "0113",
@@ -1466,7 +1579,8 @@
     "Species": "Egg Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/chansey.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/chansey.png",
+    "Form": ""
   },
   {
     "_id": "0114",
@@ -1479,7 +1593,8 @@
     "Species": "Vine Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tangela.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tangela.png",
+    "Form": ""
   },
   {
     "_id": "0115",
@@ -1492,7 +1607,8 @@
     "Species": "Parent Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "The infant rarely ventures out of its mother’s protective pouch until it is 3 years old.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kangaskhan.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kangaskhan.png",
+    "Form": ""
   },
   {
     "_id": "0116",
@@ -1505,7 +1621,8 @@
     "Species": "Dragon Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/horsea.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/horsea.png",
+    "Form": ""
   },
   {
     "_id": "0117",
@@ -1518,7 +1635,8 @@
     "Species": "Dragon Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/seadra.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/seadra.png",
+    "Form": ""
   },
   {
     "_id": "0118",
@@ -1531,7 +1649,8 @@
     "Species": "Goldfish Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/goldeen.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/goldeen.png",
+    "Form": ""
   },
   {
     "_id": "0119",
@@ -1544,7 +1663,8 @@
     "Species": "Goldfish Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/seaking.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/seaking.png",
+    "Form": ""
   },
   {
     "_id": "0120",
@@ -1557,7 +1677,8 @@
     "Species": "Star Shape Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/staryu.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/staryu.png",
+    "Form": ""
   },
   {
     "_id": "0121",
@@ -1570,7 +1691,8 @@
     "Species": "Mysterious Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/starmie.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/starmie.png",
+    "Form": ""
   },
   {
     "_id": "0122",
@@ -1583,7 +1705,8 @@
     "Species": "Barrier Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/mr-mime.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/mr-mime.png",
+    "Form": ""
   },
   {
     "_id": "0123",
@@ -1596,7 +1719,8 @@
     "Species": "Mantis Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/scyther.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/scyther.png",
+    "Form": ""
   },
   {
     "_id": "0124",
@@ -1609,7 +1733,8 @@
     "Species": "Human Shape Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/jynx.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/jynx.png",
+    "Form": ""
   },
   {
     "_id": "0125",
@@ -1622,7 +1747,8 @@
     "Species": "Electric Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/electabuzz.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/electabuzz.png",
+    "Form": ""
   },
   {
     "_id": "0126",
@@ -1635,7 +1761,8 @@
     "Species": "Spitfire Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magmar.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magmar.png",
+    "Form": ""
   },
   {
     "_id": "0127",
@@ -1648,7 +1775,8 @@
     "Species": "Stag Beetle Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/pinsir.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/pinsir.png",
+    "Form": ""
   },
   {
     "_id": "0128",
@@ -1661,7 +1789,8 @@
     "Species": "Wild Bull Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tauros.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tauros.png",
+    "Form": ""
   },
   {
     "_id": "0129",
@@ -1674,7 +1803,8 @@
     "Species": "Fish Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magikarp.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magikarp.png",
+    "Form": ""
   },
   {
     "_id": "0130",
@@ -1687,7 +1817,8 @@
     "Species": "Atrocious Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/gyarados.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/gyarados.png",
+    "Form": ""
   },
   {
     "_id": "0131",
@@ -1700,7 +1831,8 @@
     "Species": "Transport Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A POKéMON that has been overhunted almost to extinction. It can ferry people across the water.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/lapras.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/lapras.png",
+    "Form": ""
   },
   {
     "_id": "0132",
@@ -1713,7 +1845,8 @@
     "Species": "Transform Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Capable of copying an enemy’s genetic code to instantly transform itself into a duplicate of the enemy.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ditto.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ditto.png",
+    "Form": ""
   },
   {
     "_id": "0133",
@@ -1726,7 +1859,8 @@
     "Species": "Evolution Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/eevee.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/eevee.png",
+    "Form": ""
   },
   {
     "_id": "0134",
@@ -1739,7 +1873,8 @@
     "Species": "Bubble Jet Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid’s.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/vaporeon.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/vaporeon.png",
+    "Form": ""
   },
   {
     "_id": "0135",
@@ -1752,7 +1887,8 @@
     "Species": "Lightning Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "It accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/jolteon.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/jolteon.png",
+    "Form": ""
   },
   {
     "_id": "0136",
@@ -1765,7 +1901,8 @@
     "Species": "Flame Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/flareon.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/flareon.png",
+    "Form": ""
   },
   {
     "_id": "0137",
@@ -1778,7 +1915,8 @@
     "Species": "Virtual Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/porygon.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/porygon.png",
+    "Form": ""
   },
   {
     "_id": "0138",
@@ -1791,7 +1929,8 @@
     "Species": "Spiral Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/omanyte.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/omanyte.png",
+    "Form": ""
   },
   {
     "_id": "0139",
@@ -1804,7 +1943,8 @@
     "Species": "Spiral Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/omastar.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/omastar.png",
+    "Form": ""
   },
   {
     "_id": "0140",
@@ -1817,7 +1957,8 @@
     "Species": "Shellfish Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kabuto.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kabuto.png",
+    "Form": ""
   },
   {
     "_id": "0141",
@@ -1830,7 +1971,8 @@
     "Species": "Shellfish Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kabutops.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kabutops.png",
+    "Form": ""
   },
   {
     "_id": "0142",
@@ -1843,7 +1985,8 @@
     "Species": "Fossil Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A ferocious, prehistoric POKéMON that goes for the enemy’s throat with its serrated saw-like fangs.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/aerodactyl.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/aerodactyl.png",
+    "Form": ""
   },
   {
     "_id": "0143",
@@ -1856,7 +1999,8 @@
     "Species": "Sleeping Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/snorlax.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/snorlax.png",
+    "Form": ""
   },
   {
     "_id": "0144",
@@ -1869,7 +2013,8 @@
     "Species": "Freeze Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/articuno.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/articuno.png",
+    "Form": ""
   },
   {
     "_id": "0145",
@@ -1882,7 +2027,8 @@
     "Species": "Elecric Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/zapdos.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/zapdos.png",
+    "Form": ""
   },
   {
     "_id": "0146",
@@ -1895,7 +2041,8 @@
     "Species": "Flame Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/moltres.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/moltres.png",
+    "Form": ""
   },
   {
     "_id": "0147",
@@ -1908,7 +2055,8 @@
     "Species": "Dragon Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "Long considered a mythical POKéMON until recently when a small colony was found living underwater.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dratini.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dratini.png",
+    "Form": ""
   },
   {
     "_id": "0148",
@@ -1921,7 +2069,8 @@
     "Species": "Dragon Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dragonair.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dragonair.png",
+    "Form": ""
   },
   {
     "_id": "0149",
@@ -1934,7 +2083,8 @@
     "Species": "Dragon Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dragonite.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dragonite.png",
+    "Form": ""
   },
   {
     "_id": "0150",
@@ -1947,7 +2097,8 @@
     "Species": "Genetic Pokémon",
     "Region": "Kanto",
     "PkdxEntry": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/mewtwo.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/mewtwo.png",
+    "Form": ""
   },
   {
     "_id": "0151",

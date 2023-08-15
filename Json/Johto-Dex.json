@@ -10,7 +10,8 @@
     "Species": "Leaf Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Its pleasantly aromatic leaves have the ability to check the humidity and temperature.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/chikorita.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/chikorita.png",
+    "Form": ""
   },
   {
     "_id": "0153",
@@ -23,7 +24,8 @@
     "Species": "Leaf Pokémon",
     "Region": "Johto",
     "PkdxEntry": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/bayleef.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/bayleef.png",
+    "Form": ""
   },
   {
     "_id": "0154",
@@ -36,7 +38,8 @@
     "Species": "Herb Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Anyone who stands beside it becomes refreshed, just as if they were relaxing in a sunny forest.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/meganium.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/meganium.png",
+    "Form": ""
   },
   {
     "_id": "0155",
@@ -49,7 +52,8 @@
     "Species": "Fire Mouse Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/cyndaquil.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/cyndaquil.png",
+    "Form": ""
   },
   {
     "_id": "0156",
@@ -62,7 +66,8 @@
     "Species": "Volcano Pokémon",
     "Region": "Johto",
     "PkdxEntry": "This POKéMON is fully covered by nonflammable fur. It can withstand any kind of fire attack.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/quilava.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/quilava.png",
+    "Form": ""
   },
   {
     "_id": "0157",
@@ -75,7 +80,8 @@
     "Species": "Volcano Pokémon",
     "Region": "Johto",
     "PkdxEntry": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/typhlosion.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/typhlosion.png",
+    "Form": ""
   },
   {
     "_id": "0158",
@@ -88,7 +94,8 @@
     "Species": "Big Jaw Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It is small but rough and tough. It won’t hesitate to take a bite out of anything that moves.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/totodile.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/totodile.png",
+    "Form": ""
   },
   {
     "_id": "0159",
@@ -101,7 +108,8 @@
     "Species": "Big Jaw Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/croconaw.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/croconaw.png",
+    "Form": ""
   },
   {
     "_id": "0160",
@@ -114,7 +122,8 @@
     "Species": "Big Jaw Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/feraligatr.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/feraligatr.png",
+    "Form": ""
   },
   {
     "_id": "0161",
@@ -127,7 +136,8 @@
     "Species": "Scout Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sentret.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sentret.png",
+    "Form": ""
   },
   {
     "_id": "0162",
@@ -140,7 +150,8 @@
     "Species": "Long Body Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It makes a nest to suit its long and skinny body. The nest is impossible for other POKéMON to enter.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/furret.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/furret.png",
+    "Form": ""
   },
   {
     "_id": "0163",
@@ -153,7 +164,8 @@
     "Species": "Owl Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hoothoot.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hoothoot.png",
+    "Form": ""
   },
   {
     "_id": "0164",
@@ -166,7 +178,8 @@
     "Species": "Owl Pokémon",
     "Region": "Johto",
     "PkdxEntry": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/noctowl.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/noctowl.png",
+    "Form": ""
   },
   {
     "_id": "0165",
@@ -179,7 +192,8 @@
     "Species": "Five Star Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ledyba.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ledyba.png",
+    "Form": ""
   },
   {
     "_id": "0166",
@@ -192,7 +206,8 @@
     "Species": "Five Star Pokémon",
     "Region": "Johto",
     "PkdxEntry": "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ledian.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ledian.png",
+    "Form": ""
   },
   {
     "_id": "0167",
@@ -205,7 +220,8 @@
     "Species": "String Spit Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/spinarak.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/spinarak.png",
+    "Form": ""
   },
   {
     "_id": "0168",
@@ -218,7 +234,8 @@
     "Species": "Long Leg Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ariados.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ariados.png",
+    "Form": ""
   },
   {
     "_id": "0169",
@@ -231,7 +248,8 @@
     "Species": "Bat Pokémon",
     "Region": "Johto",
     "PkdxEntry": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/crobat.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/crobat.png",
+    "Form": ""
   },
   {
     "_id": "0170",
@@ -244,7 +262,8 @@
     "Species": "Angler Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/chinchou.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/chinchou.png",
+    "Form": ""
   },
   {
     "_id": "0171",
@@ -257,7 +276,8 @@
     "Species": "Light Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/lanturn.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/lanturn.png",
+    "Form": ""
   },
   {
     "_id": "0172",
@@ -270,7 +290,8 @@
     "Species": "Tiny Mouse Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/pichu.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/pichu.png",
+    "Form": ""
   },
   {
     "_id": "0173",
@@ -283,7 +304,8 @@
     "Species": "Star Shape Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/cleffa.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/cleffa.png",
+    "Form": ""
   },
   {
     "_id": "0174",
@@ -296,7 +318,8 @@
     "Species": "Balloon Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/igglybuff.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/igglybuff.png",
+    "Form": ""
   },
   {
     "_id": "0175",
@@ -309,7 +332,8 @@
     "Species": "Spike Ball Pokémon",
     "Region": "Johto",
     "PkdxEntry": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/togepi.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/togepi.png",
+    "Form": ""
   },
   {
     "_id": "0176",
@@ -322,7 +346,8 @@
     "Species": "Happiness Pokémon",
     "Region": "Johto",
     "PkdxEntry": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/togetic.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/togetic.png",
+    "Form": ""
   },
   {
     "_id": "0177",
@@ -335,7 +360,8 @@
     "Species": "Tiny Bird Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Because its wings aren’t yet fully grown, it has to hop to get around. It is always staring at something.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/natu.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/natu.png",
+    "Form": ""
   },
   {
     "_id": "0178",
@@ -348,7 +374,8 @@
     "Species": "Mystic Pokémon",
     "Region": "Johto",
     "PkdxEntry": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/xatu.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/xatu.png",
+    "Form": ""
   },
   {
     "_id": "0179",
@@ -361,7 +388,8 @@
     "Species": "Wool Pokémon",
     "Region": "Johto",
     "PkdxEntry": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/mareep.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/mareep.png",
+    "Form": ""
   },
   {
     "_id": "0180",
@@ -374,7 +402,8 @@
     "Species": "Wool Pokémon",
     "Region": "Johto",
     "PkdxEntry": "As a result of storing too much electricity, it developed patches where even downy wool won’t grow.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/flaaffy.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/flaaffy.png",
+    "Form": ""
   },
   {
     "_id": "0181",
@@ -387,7 +416,8 @@
     "Species": "Light Pokémon",
     "Region": "Johto",
     "PkdxEntry": "The tail’s tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ampharos.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ampharos.png",
+    "Form": ""
   },
   {
     "_id": "0182",
@@ -400,7 +430,8 @@
     "Species": "Flower Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/bellossom.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/bellossom.png",
+    "Form": ""
   },
   {
     "_id": "0183",
@@ -413,7 +444,8 @@
     "Species": "Aqua Mouse Pokémon",
     "Region": "Johto",
     "PkdxEntry": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/marill.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/marill.png",
+    "Form": ""
   },
   {
     "_id": "0184",
@@ -426,7 +458,8 @@
     "Species": "Aqua Rabbit Pokémon",
     "Region": "Johto",
     "PkdxEntry": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/azumarill.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/azumarill.png",
+    "Form": ""
   },
   {
     "_id": "0185",
@@ -439,7 +472,8 @@
     "Species": "Imitation Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sudowoodo.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sudowoodo.png",
+    "Form": ""
   },
   {
     "_id": "0186",
@@ -452,7 +486,8 @@
     "Species": "Frog Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/politoed.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/politoed.png",
+    "Form": ""
   },
   {
     "_id": "0187",
@@ -465,7 +500,8 @@
     "Species": "Cottonweed Pokémon",
     "Region": "Johto",
     "PkdxEntry": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hoppip.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hoppip.png",
+    "Form": ""
   },
   {
     "_id": "0188",
@@ -478,7 +514,8 @@
     "Species": "Cottonweed Pokémon",
     "Region": "Johto",
     "PkdxEntry": "he bloom on top of its head opens and closes as the temperature fluctuates up and down.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/skiploom.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/skiploom.png",
+    "Form": ""
   },
   {
     "_id": "0189",
@@ -491,7 +528,8 @@
     "Species": "Cottonweed Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/jumpluff.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/jumpluff.png",
+    "Form": ""
   },
   {
     "_id": "0190",
@@ -504,7 +542,8 @@
     "Species": "Long Tail Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/aipom.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/aipom.png",
+    "Form": ""
   },
   {
     "_id": "0191",
@@ -517,7 +556,8 @@
     "Species": "Seed Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sunkern.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sunkern.png",
+    "Form": ""
   },
   {
     "_id": "0192",
@@ -530,7 +570,8 @@
     "Species": "Sun Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sunflora.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sunflora.png",
+    "Form": ""
   },
   {
     "_id": "0193",
@@ -543,7 +584,8 @@
     "Species": "Clear Wing Pokémon",
     "Region": "Johto",
     "PkdxEntry": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/yanma.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/yanma.png",
+    "Form": ""
   },
   {
     "_id": "0194",
@@ -556,7 +598,8 @@
     "Species": "Water Fish Pokémon",
     "Region": "Johto",
     "PkdxEntry": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/wooper.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/wooper.png",
+    "Form": ""
   },
   {
     "_id": "0195",
@@ -569,7 +612,8 @@
     "Species": "Water Fish Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/quagsire.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/quagsire.png",
+    "Form": ""
   },
   {
     "_id": "0196",
@@ -582,7 +626,8 @@
     "Species": "Sun Pokémon",
     "Region": "Johto",
     "PkdxEntry": "By reading air currents, it can predict things such as the weather or its foe’s next move.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/espeon.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/espeon.png",
+    "Form": ""
   },
   {
     "_id": "0197",
@@ -595,7 +640,8 @@
     "Species": "Moonlight Pokémon",
     "Region": "Johto",
     "PkdxEntry": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/umbreon.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/umbreon.png",
+    "Form": ""
   },
   {
     "_id": "0198",
@@ -608,7 +654,8 @@
     "Species": "Darkness Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/murkrow.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/murkrow.png",
+    "Form": ""
   },
   {
     "_id": "0199",
@@ -621,7 +668,8 @@
     "Species": "Royal Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/slowking.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/slowking.png",
+    "Form": ""
   },
   {
     "_id": "0200",
@@ -634,7 +682,8 @@
     "Species": "Screech Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It loves to bite and yank people’s hair from behind without warning, just to see their shocked reactions.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/misdreavus.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/misdreavus.png",
+    "Form": ""
   },
   {
     "_id": "0201",
@@ -647,7 +696,8 @@
     "Species": "Symbol Pokémon",
     "Region": "Johto",
     "PkdxEntry": "ts flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/unown.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/unown.png",
+    "Form": ""
   },
   {
     "_id": "0202",
@@ -660,7 +710,8 @@
     "Species": "Patient Pokémon",
     "Region": "Johto",
     "PkdxEntry": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/wobbuffet.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/wobbuffet.png",
+    "Form": ""
   },
   {
     "_id": "0203",
@@ -673,7 +724,8 @@
     "Species": "Long Neck Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/girafarig.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/girafarig.png",
+    "Form": ""
   },
   {
     "_id": "0204",
@@ -686,7 +738,8 @@
     "Species": "Bagworm Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It hangs and waits for flying insect prey to come near. It does not move about much on its own.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/pineco.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/pineco.png",
+    "Form": ""
   },
   {
     "_id": "0205",
@@ -699,7 +752,8 @@
     "Species": "Bagworm Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/forretress.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/forretress.png",
+    "Form": ""
   },
   {
     "_id": "0206",
@@ -712,7 +766,8 @@
     "Species": "Land Snake Pokémon",
     "Region": "Johto",
     "PkdxEntry": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dunsparce.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/dunsparce.png",
+    "Form": ""
   },
   {
     "_id": "0207",
@@ -725,7 +780,8 @@
     "Species": "FlyScorpion Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It flies straight at its target’s face then clamps down on the startled victim to inject poison.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/gligar.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/gligar.png",
+    "Form": ""
   },
   {
     "_id": "0208",
@@ -738,7 +794,8 @@
     "Species": "Iron Snake Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/steelix.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/steelix.png",
+    "Form": ""
   },
   {
     "_id": "0209",
@@ -751,7 +808,8 @@
     "Species": "Fairy Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/snubbull.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/snubbull.png",
+    "Form": ""
   },
   {
     "_id": "0210",
@@ -764,7 +822,8 @@
     "Species": "Fairy Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Because its fangs are too heavy, it always keeps its head tilted down. However, its BITE is powerful.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/granbull.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/granbull.png",
+    "Form": ""
   },
   {
     "_id": "0211",
@@ -777,7 +836,8 @@
     "Species": "Balloon Pokémon",
     "Region": "Johto",
     "PkdxEntry": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/qwilfish.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/qwilfish.png",
+    "Form": ""
   },
   {
     "_id": "0212",
@@ -790,7 +850,8 @@
     "Species": "Pincer Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/scizor.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/scizor.png",
+    "Form": ""
   },
   {
     "_id": "0213",
@@ -803,7 +864,8 @@
     "Species": "Mold Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It stores BERRIES inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/shuckle.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/shuckle.png",
+    "Form": ""
   },
   {
     "_id": "0214",
@@ -816,7 +878,8 @@
     "Species": "Single Horn Pokémon",
     "Region": "Johto",
     "PkdxEntry": "This powerful POKéMON thrusts its prized horn under its enemies’ bellies then lifts and throws them.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/heracross.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/heracross.png",
+    "Form": ""
   },
   {
     "_id": "0215",
@@ -829,7 +892,8 @@
     "Species": "Sharp Claw Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sneasel.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/sneasel.png",
+    "Form": ""
   },
   {
     "_id": "0216",
@@ -842,7 +906,8 @@
     "Species": "Little Bear Pokémon",
     "Region": "Johto",
     "PkdxEntry": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/teddiursa.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/teddiursa.png",
+    "Form": ""
   },
   {
     "_id": "0217",
@@ -855,7 +920,8 @@
     "Species": "Hibernator Pokémon",
     "Region": "Johto",
     "PkdxEntry": "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ursaring.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ursaring.png",
+    "Form": ""
   },
   {
     "_id": "0218",
@@ -868,7 +934,8 @@
     "Species": "Lava Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/slugma.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/slugma.png",
+    "Form": ""
   },
   {
     "_id": "0219",
@@ -881,7 +948,8 @@
     "Species": "Lava Pokémon",
     "Region": "Johto",
     "PkdxEntry": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magcargo.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magcargo.png",
+    "Form": ""
   },
   {
     "_id": "0220",
@@ -894,7 +962,8 @@
     "Species": "Pig Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/swinub.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/swinub.png",
+    "Form": ""
   },
   {
     "_id": "0221",
@@ -907,7 +976,8 @@
     "Species": "Swine Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/piloswine.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/piloswine.png",
+    "Form": ""
   },
   {
     "_id": "0222",
@@ -920,7 +990,8 @@
     "Species": "Coral Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/corsola.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/corsola.png",
+    "Form": ""
   },
   {
     "_id": "0223",
@@ -933,7 +1004,8 @@
     "Species": "Jet Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/remoraid.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/remoraid.png",
+    "Form": ""
   },
   {
     "_id": "0224",
@@ -946,7 +1018,8 @@
     "Species": "Jet Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It traps enemies with its suction-cupped tentacles then smashes them with its rock-hard head.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/octillery.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/octillery.png",
+    "Form": ""
   },
   {
     "_id": "0225",
@@ -959,7 +1032,8 @@
     "Species": "Delivery Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/delibird.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/delibird.png",
+    "Form": ""
   },
   {
     "_id": "0226",
@@ -972,7 +1046,8 @@
     "Species": "Kite Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/mantine.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/mantine.png",
+    "Form": ""
   },
   {
     "_id": "0227",
@@ -985,7 +1060,8 @@
     "Species": "Armor Bird Pokémon",
     "Region": "Johto",
     "PkdxEntry": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/skarmory.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/skarmory.png",
+    "Form": ""
   },
   {
     "_id": "0228",
@@ -998,7 +1074,8 @@
     "Species": "Dark Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/houndour.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/houndour.png",
+    "Form": ""
   },
   {
     "_id": "0229",
@@ -1011,7 +1088,8 @@
     "Species": "Dark Pokémon",
     "Region": "Johto",
     "PkdxEntry": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/houndoom.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/houndoom.png",
+    "Form": ""
   },
   {
     "_id": "0230",
@@ -1024,7 +1102,8 @@
     "Species": "Dragon Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kingdra.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/kingdra.png",
+    "Form": ""
   },
   {
     "_id": "0231",
@@ -1037,7 +1116,8 @@
     "Species": "Long Nose Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It swings its long snout around playfully, but because it is so strong, that can be dangerous.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/phanpy.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/phanpy.png",
+    "Form": ""
   },
   {
     "_id": "0232",
@@ -1050,7 +1130,8 @@
     "Species": "Armor Pokémon",
     "Region": "Johto",
     "PkdxEntry": "The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/donphan.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/donphan.png",
+    "Form": ""
   },
   {
     "_id": "0233",
@@ -1063,7 +1144,8 @@
     "Species": "Virtual Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/porygon2.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/porygon2.png",
+    "Form": ""
   },
   {
     "_id": "0234",
@@ -1076,7 +1158,8 @@
     "Species": "Big Horn Pokémon",
     "Region": "Johto",
     "PkdxEntry": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/stantler.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/stantler.png",
+    "Form": ""
   },
   {
     "_id": "0235",
@@ -1089,7 +1172,8 @@
     "Species": "Painter Pokémon",
     "Region": "Johto",
     "PkdxEntry": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/smeargle.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/smeargle.png",
+    "Form": ""
   },
   {
     "_id": "0236",
@@ -1102,7 +1186,8 @@
     "Species": "Scuffle Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Even though it is small, it can’t be ignored because it will slug any handy target without warning.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tyrogue.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tyrogue.png",
+    "Form": ""
   },
   {
     "_id": "0237",
@@ -1115,7 +1200,8 @@
     "Species": "Handstand Pokémon",
     "Region": "Johto",
     "PkdxEntry": "If you become enchanted by its smooth, elegant, dance-like kicks, you may get drilled hard.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hitmontop.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/hitmontop.png",
+    "Form": ""
   },
   {
     "_id": "0238",
@@ -1128,7 +1214,8 @@
     "Species": "Kiss Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/smoochum.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/smoochum.png",
+    "Form": ""
   },
   {
     "_id": "0239",
@@ -1141,7 +1228,8 @@
     "Species": "Electric Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/elekid.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/elekid.png",
+    "Form": ""
   },
   {
     "_id": "0240",
@@ -1154,7 +1242,8 @@
     "Species": "Live Coal Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magby.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/magby.png",
+    "Form": ""
   },
   {
     "_id": "0241",
@@ -1167,7 +1256,8 @@
     "Species": "Milk Cow Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/miltank.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/miltank.png",
+    "Form": ""
   },
   {
     "_id": "0242",
@@ -1180,7 +1270,8 @@
     "Species": "Happiness Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Anyone who takes even one bite of BLISSEY’s egg becomes unfailingly caring and pleasant to everyone.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/blissey.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/blissey.png",
+    "Form": ""
   },
   {
     "_id": "0243",
@@ -1193,7 +1284,8 @@
     "Species": "Thunder Pokémon",
     "Region": "Johto",
     "PkdxEntry": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/raikou.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/raikou.png",
+    "Form": ""
   },
   {
     "_id": "0244",
@@ -1206,7 +1298,8 @@
     "Species": "Volcano Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Volcanoes erupt when it barks. Unable to restrain its extreme power, it races headlong around the land.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/entei.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/entei.png",
+    "Form": ""
   },
   {
     "_id": "0245",
@@ -1219,7 +1312,8 @@
     "Species": "Aurora Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/suicune.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/suicune.png",
+    "Form": ""
   },
   {
     "_id": "0246",
@@ -1232,7 +1326,8 @@
     "Species": "Rock Skin Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/larvitar.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/larvitar.png",
+    "Form": ""
   },
   {
     "_id": "0247",
@@ -1245,7 +1340,8 @@
     "Species": "Hard Shell Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/pupitar.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/pupitar.png",
+    "Form": ""
   },
   {
     "_id": "0248",
@@ -1258,7 +1354,8 @@
     "Species": "Armor Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tyranitar.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/tyranitar.png",
+    "Form": ""
   },
   {
     "_id": "0249",
@@ -1271,7 +1368,8 @@
     "Species": "Diving Pokémon",
     "Region": "Johto",
     "PkdxEntry": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/lugia.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/lugia.png",
+    "Form": ""
   },
   {
     "_id": "0250",
@@ -1284,7 +1382,8 @@
     "Species": "Rainbow Pokémon",
     "Region": "Johto",
     "PkdxEntry": "Legends claim this POKéMON flies the world’s skies continuously on its magnificent seven-colored wings.",
-    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ho-oh.png"
+    "ImgURL": "https://img.pokemondb.net/sprites/home/normal/ho-oh.png",
+    "Form": ""
   },
   {
     "_id": "0251",
