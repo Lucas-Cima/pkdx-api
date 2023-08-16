@@ -7,8 +7,11 @@ import (
 	"github.com/gorilla/mux"
 	log "github.com/sirupsen/logrus"
 	"go.mongodb.org/mongo-driver/mongo"
+	"math/rand"
 	"net/http"
 	"pkdx-api/pkg/db"
+	"strconv"
+	"time"
 )
 
 var (
@@ -19,9 +22,13 @@ var (
 func HandleRequests() {
 	myRouter := mux.NewRouter().StrictSlash(true)
 	myRouter.HandleFunc("/pokedex/national", getNationalDex)
+	myRouter.HandleFunc("/pokedex/random", getRandomPokemon)
 	myRouter.HandleFunc("/pokedex/{dexNum}", getPokemonByDexNum)
-	myRouter.HandleFunc("/pokedex/{type}", getPokedexByOneType)
-	myRouter.HandleFunc("/pokedex", getPokedexByTwoTypes)
+	myRouter.HandleFunc("/pokedex/form/{form}", getPokedexByForm)
+	myRouter.HandleFunc("/pokedex/type/{type}", getPokedexByOneType)
+	myRouter.HandleFunc("/pokedex/type/", getPokedexByTwoTypes)
+	myRouter.HandleFunc("/pokedex/region/{region}", getPokedexByRegion)
+
 	log.Fatal(http.ListenAndServe(":8082", myRouter))
 }
 
@@ -38,6 +45,15 @@ func getPokemonByDexNum(w http.ResponseWriter, r *http.Request) {
 	dexNum := vars["dexNum"]
 	pokemonByDexNum, err := db.GetPokemonByDexNum(r.Context(), &MongoDb, dexNum)
 	if err = json.NewEncoder(w).Encode(pokemonByDexNum); err != nil {
+		log.Error(err)
+	}
+}
+
+func getPokedexByForm(w http.ResponseWriter, r *http.Request) {
+	vars := mux.Vars(r)
+	form := vars["form"]
+	pokedexByForm, err := db.GetPokedexByForm(r.Context(), &MongoDb, form)
+	if err = json.NewEncoder(w).Encode(pokedexByForm); err != nil {
 		log.Error(err)
 	}
 }
@@ -66,8 +82,31 @@ func getPokedexByTwoTypes(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-//TODO: Create Endpoint for specific pokedexes based on region
+func getPokedexByRegion(w http.ResponseWriter, r *http.Request) {
+	vars := mux.Vars(r)
+	region := vars["region"]
+	pokedexByRegion, err := db.GetPokedexByRegion(r.Context(), &MongoDb, region)
+	if err = json.NewEncoder(w).Encode(pokedexByRegion); err != nil {
+		log.Error(err)
+	}
+}
 
-//TODO: Create Endpoint for pokemon with specific forms
-
-//TODO: Create Endpoint to return random pokemon
+func getRandomPokemon(w http.ResponseWriter, r *http.Request) {
+	rand.Seed(time.Now().UnixNano())
+	min := 1
+	max := 989
+	randomDexId := rand.Intn(max-min+1) + min
+	randomDexIdString := strconv.Itoa(randomDexId)
+	switch len(randomDexIdString) {
+	case 1:
+		randomDexIdString = "000" + randomDexIdString
+	case 2:
+		randomDexIdString = "00" + randomDexIdString
+	case 3:
+		randomDexIdString = "0" + randomDexIdString
+	}
+	randomPokemon, err := db.GetRandomPokemon(r.Context(), &MongoDb, randomDexIdString)
+	if err = json.NewEncoder(w).Encode(randomPokemon); err != nil {
+		log.Error(err)
+	}
+}
